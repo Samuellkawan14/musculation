@@ -1,3 +1,94 @@
 # musculation
-IA treinada em conhecimento do leandro twin 
-https://redesigned-zebra-g4vrpxqqvjjj29q7p.github.dev/
+
+📌 Contexto e Objetivos
+
+Este projeto tem como tema central a musculação voltada para hipertrofia e recomposição corporal, com base nos conteúdos produzidos por Leandro Twin, referência nacional em educação física baseada em evidências.
+
+O objetivo principal foi utilizar ferramentas de IA (NotebookLM) para:
+
+Organizar e sintetizar conteúdos técnicos sobre treino e nutrição
+Desenvolver uma base de conhecimento confiável para consultas rápidas
+Aprender a estruturar prompts eficazes para extração de informação
+Criar um material de estudo reutilizável e aplicável na prática
+📚 Curadoria de Fontes
+
+As seguintes fontes abertas foram selecionadas e utilizadas no treinamento e consulta da IA:
+https://www.youtube.com/watch?v=d8aiLz53pvc
+https://www.youtube.com/watch?v=RT1URQXdFVY
+https://www.youtube.com/watch?v=rMo9lDQ-K3k
+https://www.youtube.com/watch?v=uNWR2gts3Fk
+https://www.youtube.com/watch?v=WQ9NwAJ-S1A
+https://revistaforum.com.br/forumtudo/2026/02/05/dia-de-descanso-e-essencial-para-ganho-de-massa-muscular-e-recuperacao-completa-apos-treinamento-intenso
+https://www.em.com.br/emfoco/2025/07/24/dieta-para-hipertrofia-leandro-twin-revela-o-modelo-hiperproteico-e-hipercalorico/
+https://boaforma.abril.com.br/movimento/drop-set-rest-pause-bi-set-tri-set/
+https://www.youtube.com/watch?v=eykjSdh_aXk
+https://www.youtube.com/watch?v=LylVgFUZO3w
+https://www.youtube.com/watch?v=X2GvJ5x_z7Q
+https://www.youtube.com/watch?v=__zbWqYgbzM
+https://www.youtube.com/watch?v=Tpq_gKiQkxc
+https://blog.gsuplementos.com.br/treino-para-ectomorfo/
+https://www.youtube.com/watch?v=bYhbygwp8Gs
+https://www.youtube.com/watch?v=3izxngFD1Vc
+
+Canal oficial do YouTube do Leandro Twin
+Artigos e materiais educativos disponíveis no site oficial do autor
+Entrevistas e colaborações com outros profissionais da área fitness
+PDFs e resumos técnicos sobre:
+Hipertrofia muscular
+Periodização de treino
+Nutrição aplicada à musculação
+
+
+🧠 Engenharia de Prompts e "Cicatrizes"
+
+Durante o desenvolvimento, foram testadas diferentes abordagens de prompts para melhorar a qualidade das respostas da IA.
+
+Exemplos de prompts utilizados:
+“Explique hipertrofia muscular de forma simples para iniciantes.”
+“Monte um treino ABC para hipertrofia baseado em evidências.”
+“Quais são os principais erros de quem quer ganhar massa muscular?”
+“Resuma os princípios de periodização no treino de musculação.”
+Ajustes e variações:
+Tornar os prompts mais específicos aumentou a qualidade das respostas
+Incluir contexto (nível do praticante, objetivo, limitações) melhorou a personalização
+Pedir estrutura (ex: listas, passo a passo) gerou respostas mais organizadas
+Dificuldades encontradas (troubleshooting):
+Respostas genéricas quando o prompt era muito amplo
+Falta de personalização sem contexto do usuário
+Algumas respostas repetitivas ou superficiais
+Necessidade de validar informações para evitar inconsistências
+
+Essas “cicatrizes” ajudaram a refinar a forma de interação com a IA, tornando o processo mais eficiente.
+
+📖 Miniguia de Estudo (Entrega Final)
+✅ Resumo Estruturado
+
+Hipertrofia Muscular:
+Processo de aumento do tamanho das fibras musculares, estimulado por treino de resistência, alimentação adequada e descanso.
+
+Princípios fundamentais:
+
+Sobrecarga progressiva
+Volume de treino adequado
+Intensidade controlada
+Frequência de estímulo
+Recuperação muscular
+
+Nutrição:
+
+Superávit calórico (em fases de ganho)
+Consumo adequado de proteínas
+Distribuição equilibrada de macronutrientes
+📘 Glossário
+Hipertrofia: aumento do volume muscular
+Sobrecarga Progressiva: aumento gradual da carga ou estímulo
+Volume de Treino: quantidade total de trabalho (séries x repetições)
+Intensidade: nível de esforço durante o exercício
+Periodização: planejamento estruturado do treino ao longo do tempo
+Falha Muscular: ponto em que não é possível completar mais repetições
+🔁 Prompts Reutilizáveis
+“Explique [conceito] de forma simples e prática.”
+“Monte um treino para [objetivo] considerando [nível do usuário].”
+“Quais são os erros mais comuns em [tema]?”
+“Resuma os principais pontos sobre [assunto] em tópicos.”
+“Crie um plano básico para iniciantes em [objetivo específico].”
